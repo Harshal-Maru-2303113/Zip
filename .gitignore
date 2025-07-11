@@ -39,3 +39,12 @@
 
 # debug information files
 *.dwo
+
+#text files
+*.txt
+
+#bash file
+*.sh
+
+#vscode
+.vscode
